@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="GBK"?>
+<ROOT>
+	<LOCK_MINUTES type="int">26280000</LOCK_MINUTES>
+	<GROUP_ID type="string">111001679</GROUP_ID>
+	<DEVICE_MODEL_ID type="string">17891601638</DEVICE_MODEL_ID>
+	<USER_NAME type="string">蒙玉葵</USER_NAME>
+	<OP_CODE type="string">1196</OP_CODE>
+	<ID_TYPE type="string">1</ID_TYPE>
+	<ID_ICCID type="string">45212719940422242X</ID_ICCID>
+	<USER_ADDRESS type="string">广西壮族自治区,南宁市,江南区,广西壮族自治区南宁市江南区福建园街道广西南宁市江南区福建园街道白沙大道28号新10+1商业广场，唐正科技。</USER_ADDRESS>
+	<USER_SEX type="string">1</USER_SEX>
+	<USER_BIRTHDAY type="string">19940422</USER_BIRTHDAY>
+	<ID_VALIDDATE type="string">20301223</ID_VALIDDATE>
+	<OUT_ORDER_ID type="string">2018020909101887501</OUT_ORDER_ID>
+	<OBJECT_GROUP_ID type="string">111014398</OBJECT_GROUP_ID>
+	<PAY_STATUS type="string">1</PAY_STATUS>
+	<PAKAGE_ID type="string">CP04G188</PAKAGE_ID>
+	<ACCESS_TYPE type="string">001</ACCESS_TYPE>
+	<CARD_ID type="string"></CARD_ID>
+	<BUS_PRICE type="string">0</BUS_PRICE>
+	<PREPAY_FEE type="string"></PREPAY_FEE>
+	<SIM_FEE type="string"></SIM_FEE>
+	<OPT_PHONE type="string">15307836921</OPT_PHONE>
+	<DIFF_FLAG type="string">1</DIFF_FLAG>
+	<CARD_FLAG type="string">0</CARD_FLAG>
+	<PRODUCT>
+		<PRODATTR_LIST>
+			<PRODATTR>
+				<PROD_ID type="string"></PROD_ID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</PRODATTR>
+		</PRODATTR_LIST>
+		<PRODPRCATTR_LIST>
+			<PRODPRCATTR>
+				<PROD_PRCID type="string"></PROD_PRCID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</PRODPRCATTR>
+		</PRODPRCATTR_LIST>
+		<SVCATTR_LIST>
+			<SVCATTR>
+				<SVC_ID type="string"></SVC_ID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</SVCATTR>
+		</SVCATTR_LIST>
+		<TEAMMBR_LIST></TEAMMBR_LIST>
+		<GROUPATTR_LIST>
+			<GROUPATTR>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</GROUPATTR>
+		</GROUPATTR_LIST>
+	</PRODUCT>
+	<BUSIINFO>
+		<BUSI_MODEL type="node"></BUSI_MODEL>
+		<MASTER_SERV_ID type="string">1001</MASTER_SERV_ID>
+		<OP_CODE type="string">1147</OP_CODE>
+		<SERIAL_NO type="long">100</SERIAL_NO>
+		<DOC_SEQ type="long">100</DOC_SEQ>
+		<CUST_ID_TYPE type="int">2</CUST_ID_TYPE>
+		<ORDER_LINE_FEELIST>
+			<ORDER_LINE_FEE>
+				<PAY_TYPE type="string">A</PAY_TYPE>
+				<RECEIVE_FEE_TYPE type="string">E</RECEIVE_FEE_TYPE>
+				<FEE_TYPE type="string">2</FEE_TYPE>
+				<FEE_CODE type="string">182</FEE_CODE>
+				<FEE_CODE_SEQ type="long">1</FEE_CODE_SEQ>
+				<FACTOR_ONE type="string">20180209000000</FACTOR_ONE>
+				<FACTOR_EIGHT type="string"></FACTOR_EIGHT>
+				<PROD_FAV_RULE type="long">0</PROD_FAV_RULE>
+				<PROD_FAV type="long">0</PROD_FAV>
+				<POWER_FAV_RULE type="int">0</POWER_FAV_RULE>
+				<POWER_FAV type="long">0</POWER_FAV>
+				<SHOULD_PAY type="long">2400</SHOULD_PAY>
+				<BUSI_SHOULD type="long">2400</BUSI_SHOULD>
+				<IS_PRINT type="string">N</IS_PRINT>
+			</ORDER_LINE_FEE>
+		</ORDER_LINE_FEELIST>
+	</BUSIINFO>
+	<BUSIINFO>
+		<MASTER_SERV_ID type="string">1001</MASTER_SERV_ID>
+		<OP_CODE type="string">1056</OP_CODE>
+		<SERIAL_NO type="long">100</SERIAL_NO>
+		<DOC_SEQ type="long">99</DOC_SEQ>
+		<CUST_ID_TYPE type="int">2</CUST_ID_TYPE>
+		<BUSI_MODEL>
+			<PRODUCT_LIST></PRODUCT_LIST>
+		</BUSI_MODEL>
+	</BUSIINFO>
+	<EXTEND_INFO_LIST>
+		<EXTEND_INFO>
+			<ACT_ID type="string">201708221141122515</ACT_ID>
+			<MEANS_ID type="string">201708221141133671</MEANS_ID>
+			<ACT_NAME type="string">任我看套卡（爱奇艺，24元日租版）</ACT_NAME>
+			<ACTION_DATE type="string"></ACTION_DATE>
+			<MK_TYPE type="string">6</MK_TYPE>
+			<CHANNEL_TYPE type="string">11</CHANNEL_TYPE>
+			<OP_TIME type="string">20180209091020</OP_TIME>
+			<LOGIN_NO type="string">Y1860WSSC</LOGIN_NO>
+			<GROUP_ID type="string">2018020909101887501</GROUP_ID>
+			<OP_CODE type="string">1196</OP_CODE>
+			<IS_BACK type="string">0</IS_BACK>
+			<TOTAL_MONEY type="string">0.0</TOTAL_MONEY>
+			<OP_TIME_FORMAT type="string">2018-02-09</OP_TIME_FORMAT>
+			<CUST_GROUP_ID type="string">127000000</CUST_GROUP_ID>
+			<TASK_ID type="string"></TASK_ID>
+			<EXECUTE_FLAG type="string">1</EXECUTE_FLAG>
+			<BUSI_CONTENT_NODE>
+				<MEANS>
+					<MEANS_ID type="string">201708221141133671</MEANS_ID>
+					<MEANS_NAME type="string">首月免月费</MEANS_NAME>
+					<A02>
+						<DETAIL_CODE type="string">01025</DETAIL_CODE>
+						<PAY_MONEY type="string">24</PAY_MONEY>
+						<EFF_TYPE type="string">0</EFF_TYPE>
+						<OFFSET_MONTH type="string" />
+						<FEE_CODE type="string">182</FEE_CODE>
+						<FEE_NAME type="string">赠送话费</FEE_NAME>
+						<FEE_TYPE type="string">2</FEE_TYPE>
+						<EFF_DATE type="string">2018-02-09</EFF_DATE>
+					</A02>
+				</MEANS>
+			</BUSI_CONTENT_NODE>
+		</EXTEND_INFO>
+	</EXTEND_INFO_LIST>
+</ROOT>

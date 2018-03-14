@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="GBK"?>
+<ROOT>
+	<LOCK_MINUTES type="int">26280000</LOCK_MINUTES>
+	<GROUP_ID type="string">122000464</GROUP_ID>
+	<DEVICE_MODEL_ID type="string">15155041570</DEVICE_MODEL_ID>
+	<USER_NAME type="string">好好 </USER_NAME>
+	<OP_CODE type="string">1196</OP_CODE>
+	<ID_TYPE type="string">1</ID_TYPE>
+	<ID_ICCID type="string">340111198606061334</ID_ICCID>
+	<USER_ADDRESS type="string">安徽省,null,烈山区,街道/镇+村/小区/写字楼+门牌号</USER_ADDRESS>
+	<USER_SEX type="string">1</USER_SEX>
+	<USER_BIRTHDAY type="string">19860606</USER_BIRTHDAY>
+	<ID_VALIDDATE type="string">20301223</ID_VALIDDATE>
+	<OUT_ORDER_ID type="string">2017060815170513501</OUT_ORDER_ID>
+	<OBJECT_GROUP_ID type="string">122000464</OBJECT_GROUP_ID>
+	<PAY_STATUS type="string">1</PAY_STATUS>
+	<PAKAGE_ID type="string">CP04G102</PAKAGE_ID>
+	<ACCESS_TYPE type="string"></ACCESS_TYPE>
+	<CARD_ID type="string"></CARD_ID>
+	<BUS_PRICE type="string">10000</BUS_PRICE>
+	<PREPAY_FEE type="string"></PREPAY_FEE>
+	<SIM_FEE type="string"></SIM_FEE>
+	<OPT_PHONE type="string">13905507863</OPT_PHONE>
+	<DIFF_FLAG type="string">1</DIFF_FLAG>
+	<CARD_FLAG type="string">0</CARD_FLAG>
+	<PRODUCT>
+		<PRODATTR_LIST>
+			<PRODATTR>
+				<PROD_ID type="string"></PROD_ID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</PRODATTR>
+		</PRODATTR_LIST>
+		<PRODPRCATTR_LIST>
+			<PRODPRCATTR>
+				<PROD_PRCID type="string"></PROD_PRCID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</PRODPRCATTR>
+		</PRODPRCATTR_LIST>
+		<SVCATTR_LIST>
+			<SVCATTR>
+				<SVC_ID type="string"></SVC_ID>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</SVCATTR>
+		</SVCATTR_LIST>
+		<TEAMMBR_LIST></TEAMMBR_LIST>
+		<GROUPATTR_LIST>
+			<GROUPATTR>
+				<ATTR_ID type="string"></ATTR_ID>
+				<ATTRVALUE_LIST>
+					<ATTR_VALUE type="string"></ATTR_VALUE>
+				</ATTRVALUE_LIST>
+			</GROUPATTR>
+		</GROUPATTR_LIST>
+	</PRODUCT>
+	<BUSIINFO>
+		<BUSI_MODEL type="node"></BUSI_MODEL>
+		<MASTER_SERV_ID type="string">1001</MASTER_SERV_ID>
+		<OP_CODE type="string">1147</OP_CODE>
+		<SERIAL_NO type="long">100</SERIAL_NO>
+		<DOC_SEQ type="long">100</DOC_SEQ>
+		<CUST_ID_TYPE type="int">2</CUST_ID_TYPE>
+		<ORDER_LINE_FEELIST>
+			<ORDER_LINE_FEE>
+				<PAY_TYPE type="string">A</PAY_TYPE>
+				<RECEIVE_FEE_TYPE type="string">E</RECEIVE_FEE_TYPE>
+				<FEE_TYPE type="string">2</FEE_TYPE>
+				<FEE_CODE type="string">182</FEE_CODE>
+				<FEE_CODE_SEQ type="long">1</FEE_CODE_SEQ>
+				<FACTOR_ONE type="string">20170608000000</FACTOR_ONE>
+				<FACTOR_EIGHT type="string"></FACTOR_EIGHT>
+				<PROD_FAV_RULE type="long">0</PROD_FAV_RULE>
+				<PROD_FAV type="long">0</PROD_FAV>
+				<POWER_FAV_RULE type="int">0</POWER_FAV_RULE>
+				<POWER_FAV type="long">0</POWER_FAV>
+				<SHOULD_PAY type="long">10000</SHOULD_PAY>
+				<BUSI_SHOULD type="long">10000</BUSI_SHOULD>
+				<IS_PRINT type="string">N</IS_PRINT>
+			</ORDER_LINE_FEE>
+			<ORDER_LINE_FEE>
+				<RECEIVE_FEE_TYPE type="string">1</RECEIVE_FEE_TYPE>
+				<PAY_TYPE type="string">0</PAY_TYPE>
+				<FEE_TYPE type="string">2</FEE_TYPE>
+				<FEE_CODE type="string">184</FEE_CODE>
+				<FEE_CODE_SEQ type="long">1</FEE_CODE_SEQ>
+				<PROD_FAV_RULE type="long">0</PROD_FAV_RULE>
+				<PROD_FAV type="long">0</PROD_FAV>
+				<POWER_FAV_RULE type="int">0</POWER_FAV_RULE>
+				<POWER_FAV type="long">0</POWER_FAV>
+				<SHOULD_PAY type="long">10000</SHOULD_PAY>
+				<BUSI_SHOULD type="long">10000</BUSI_SHOULD>
+				<IS_PRINT type="string">Y</IS_PRINT>
+			</ORDER_LINE_FEE>
+			<ORDER_LINE_FEE>
+				<PAY_TYPE type="string">A</PAY_TYPE>
+				<RECEIVE_FEE_TYPE type="string">E</RECEIVE_FEE_TYPE>
+				<FEE_TYPE type="string">2</FEE_TYPE>
+				<FEE_CODE type="string">183</FEE_CODE>
+				<FEE_CODE_SEQ type="long">1</FEE_CODE_SEQ>
+				<FACTOR_ONE type="string">20170701000000</FACTOR_ONE>
+				<FACTOR_EIGHT type="string">20170731235959</FACTOR_EIGHT>
+				<FACTOR_TWO type="string">1</FACTOR_TWO>
+				<FACTOR_THREE type="string">1800</FACTOR_THREE>
+				<PROD_FAV_RULE type="long">0</PROD_FAV_RULE>
+				<PROD_FAV type="long">0</PROD_FAV>
+				<POWER_FAV_RULE type="int">0</POWER_FAV_RULE>
+				<POWER_FAV type="long">0</POWER_FAV>
+				<SHOULD_PAY type="long">1800</SHOULD_PAY>
+				<BUSI_SHOULD type="long">1800</BUSI_SHOULD>
+				<IS_PRINT type="string">N</IS_PRINT>
+			</ORDER_LINE_FEE>
+			<ORDER_LINE_FEE>
+				<RECEIVE_FEE_TYPE type="string">1</RECEIVE_FEE_TYPE>
+				<PAY_TYPE type="string">0</PAY_TYPE>
+				<FEE_TYPE type="string">2</FEE_TYPE>
+				<FEE_CODE type="string">47</FEE_CODE>
+				<FEE_CODE_SEQ type="long">1</FEE_CODE_SEQ>
+				<FACTOR_ONE type="string">20170701000000</FACTOR_ONE>
+				<FACTOR_EIGHT type="string">20170731235959</FACTOR_EIGHT>
+				<FACTOR_TWO type="string">1</FACTOR_TWO>
+				<FACTOR_THREE type="string">1800</FACTOR_THREE>
+				<FACTOR_FOUR type="string">0</FACTOR_FOUR>
+				<FACTOR_FIVE type="string">99</FACTOR_FIVE>
+				<FACTOR_SEVEN type="string">100.00</FACTOR_SEVEN>
+				<PROD_FAV_RULE type="long">0</PROD_FAV_RULE>
+				<PROD_FAV type="long">0</PROD_FAV>
+				<POWER_FAV_RULE type="int">0</POWER_FAV_RULE>
+				<POWER_FAV type="long">0</POWER_FAV>
+				<SHOULD_PAY type="long">0</SHOULD_PAY>
+				<BUSI_SHOULD type="long">0</BUSI_SHOULD>
+				<IS_PRINT type="string">Y</IS_PRINT>
+			</ORDER_LINE_FEE>
+		</ORDER_LINE_FEELIST>
+	</BUSIINFO>
+	<BUSIINFO>
+		<MASTER_SERV_ID type="string">1001</MASTER_SERV_ID>
+		<OP_CODE type="string">1056</OP_CODE>
+		<SERIAL_NO type="long">100</SERIAL_NO>
+		<DOC_SEQ type="long">99</DOC_SEQ>
+		<CUST_ID_TYPE type="int">2</CUST_ID_TYPE>
+		<BUSI_MODEL>
+			<PRODUCT_LIST></PRODUCT_LIST>
+		</BUSI_MODEL>
+	</BUSIINFO>
+	<EXTEND_INFO_LIST>
+		<EXTEND_INFO>
+			<ACT_ID type="string">201706071044077860</ACT_ID>
+			<MEANS_ID type="string">201706071044077899</MEANS_ID>
+			<ACT_NAME type="string">非0元营销案6.7</ACT_NAME>
+			<ACTION_DATE type="string"></ACTION_DATE>
+			<MK_TYPE type="string">6</MK_TYPE>
+			<CHANNEL_TYPE type="string">11</CHANNEL_TYPE>
+			<OP_TIME type="string">20170608032122</OP_TIME>
+			<LOGIN_NO type="string">Y1860WSSC</LOGIN_NO>
+			<GROUP_ID type="string"></GROUP_ID>
+			<OP_CODE type="string">1196</OP_CODE>
+			<IS_BACK type="string">0</IS_BACK>
+			<TOTAL_MONEY type="string">0.0</TOTAL_MONEY>
+			<OP_TIME_FORMAT type="string">2017-06-08</OP_TIME_FORMAT>
+			<CUST_GROUP_ID type="string">122000000</CUST_GROUP_ID>
+			<TASK_ID type="string"></TASK_ID>
+			<EXECUTE_FLAG type="string">1</EXECUTE_FLAG>
+			<BUSI_CONTENT_NODE>
+				<MEANS>
+					<MEANS_ID type="string">201706071044077899</MEANS_ID>
+					<MEANS_NAME type="string">非0元营销案6.7</MEANS_NAME>
+					<A02>
+						<DETAIL_CODE type="string">01025</DETAIL_CODE>
+						<PAY_MONEY type="string">100</PAY_MONEY>
+						<EFF_TYPE type="string">0</EFF_TYPE>
+						<OFFSET_MONTH type="string" />
+						<FEE_CODE type="string">182</FEE_CODE>
+						<FEE_NAME type="string">赠送话费</FEE_NAME>
+						<FEE_TYPE type="string">2</FEE_TYPE>
+						<EFF_DATE type="string">2017-06-08</EFF_DATE>
+					</A02>
+					<A07>
+						<FEE_CODE type="string">184</FEE_CODE>
+						<FEE_NAME type="string">开户预存款</FEE_NAME>
+						<FEE_TYPE type="string">2</FEE_TYPE>
+						<PAY_MONEY type="string">100</PAY_MONEY>
+					</A07>
+					<A10>
+						<MONTH_RETURN>
+							<TOTAL_MONEY type="string">18</TOTAL_MONEY>
+							<ADD_FEE_FLAG type="string">N</ADD_FEE_FLAG>
+							<IS_ADD_PROD type="string">0</IS_ADD_PROD>
+							<IS_A10MASTER type="string">N</IS_A10MASTER>
+							<EXP_DATE type="string" />
+							<STAGES_MONTH type="string">1</STAGES_MONTH>
+							<STAGES_MONEY type="string">18.00</STAGES_MONEY>
+							<STAGES_SPACE type="string">0</STAGES_SPACE>
+							<STAGES_CYCLE type="string">99</STAGES_CYCLE>
+							<FAV_RATE type="string">100.00</FAV_RATE>
+							<DETAIL_CODE type="string">03030</DETAIL_CODE>
+							<PAY_MONEY type="string">0.00</PAY_MONEY>
+							<EFF_TYPE type="string">0</EFF_TYPE>
+							<OFFSET_MONTH type="string" />
+							<FEE_CODE type="string">47</FEE_CODE>
+							<FEE_NAME type="string">分月返还待转预存</FEE_NAME>
+							<FEE_TYPE type="string">2</FEE_TYPE>
+							<GIVE_DETAIL_CODE type="string">03300</GIVE_DETAIL_CODE>
+							<GIVE_MONEY type="string">18.00</GIVE_MONEY>
+							<GIVE_FEE_CODE type="string">183</GIVE_FEE_CODE>
+							<GIVE_FEE_NAME type="string">8</GIVE_FEE_NAME>
+							<GIVE_FEE_TYPE type="string">2</GIVE_FEE_TYPE>
+							<IS_SYNEFF type="string">N</IS_SYNEFF>
+							<EFF_DATE type="string">2017-07-01</EFF_DATE>
+							<EXP_DATE type="string">2017-07-31</EXP_DATE>
+						</MONTH_RETURN>
+					</A10>
+					<A18>
+						<ATTR_CTRL>
+							<IS_MODIFY />
+						</ATTR_CTRL>
+						<MEAN_ALL>
+							<LIMIT_INFO>
+								<INDEX type="string">1</INDEX>
+								<LIMIT_LEVEL type="string">2</LIMIT_LEVEL>
+								<LEVEL_NAME type="string">公共限制条件</LEVEL_NAME>
+								<TEAM_NO type="string" />
+								<LIMIT_TYPE type="string">07</LIMIT_TYPE>
+								<LIMIT_CODE type="string">0050</LIMIT_CODE>
+								<LIMIT_TAR type="string">0</LIMIT_TAR>
+								<LIMIT_VALUE type="string">4</LIMIT_VALUE>
+								<TYPE_NAME type="string">参加活动后的行为限制</TYPE_NAME>
+								<CODE_NAME type="string">不能变更主资费</CODE_NAME>
+								<TAR_NAME type="string">办理号码</TAR_NAME>
+								<LIMIT_DESC type="string" />
+								<LIMIT_NO type="string" />
+								<LIMIT_NAME type="string" />
+							</LIMIT_INFO>
+						</MEAN_ALL>
+					</A18>
+				</MEANS>
+			</BUSI_CONTENT_NODE>
+		</EXTEND_INFO>
+	</EXTEND_INFO_LIST>
+</ROOT>
