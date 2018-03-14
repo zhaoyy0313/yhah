@@ -7,5 +7,8 @@ package com.first;
 public class New1 {
 	private String cc;
 	private String dd;
-	
+	private String aa;
+	private String bb;
+			
+
 }
