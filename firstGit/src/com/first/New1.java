@@ -5,5 +5,7 @@ package com.first;
  * ภเหตร๗
  */
 public class New1 {
-
+	private String cc;
+	private String dd;
+	
 }
