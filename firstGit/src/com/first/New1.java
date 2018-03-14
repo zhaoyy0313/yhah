@@ -5,5 +5,8 @@ package com.first;
  * ภเหตร๗
  */
 public class New1 {
-
+		private String aa;
+		private String bb;
+			
+		
 }
