@@ -18,8 +18,6 @@ public class CreateDoc {
 
 	public static void main(String[] args) {
 		try {  
-	        String inString = "";
-	        String tmpString = "";
 	        File inFile = new File("D://in4.csv"); // 读取的CSV文件
 	        File outFile = new File("D://outtest4.csv");//输出的CSV文
             BufferedReader reader = new BufferedReader(new FileReader(inFile));
@@ -29,7 +27,7 @@ public class CreateDoc {
             CsvReader creader = new CsvReader(reader, ',');
             CsvWriter cwriter = new CsvWriter(writer,',');
             while(creader.readRecord()){
-			    inString = creader.getRawRecord();//读取一行数据
+			    String inString = creader.getRawRecord();//读取一行数据
 			    if(inString.indexOf("|") > 0){
 			    	System.out.println(inString);
 			    	inString = inString.replaceAll("＊", "").trim();
@@ -37,7 +35,7 @@ public class CreateDoc {
 				    String idcd = ss[2].trim();
 				    System.out.println(idcd);
 				    if(idcd.length() == 9){
-				    	tmpString = "8a739e02610c1b01016126f212ca3b7d|3|"+idcd+"|JVM9B3J|ahyd|";
+				    	String tmpString = "8a739e02610c1b01016126f212ca3b7d|3|"+idcd+"|JVM9B3J|ahyd|";
 					    //第一个参数表示要写入的字符串数组，每一个元素占一个单元格，第二个参数为true时表示写完数据后自动换行
 						cwriter.writeRecord(tmpString.split(","), true);
 				    }
